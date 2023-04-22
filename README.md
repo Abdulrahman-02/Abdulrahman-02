@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blood Donation App<br>👯 I’m looking to collaborate on Cybersecurity Projects<br>🌱 I’m currently learning Cybersecurity, Embedded Systems & DSA<br>💬 Ask me about Python<br>⚡ Fun fact I Play Chess 
+👯 I’m looking to collaborate on Cybersecurity Projects<br>🌱 I’m currently learning Cybersecurity, Backend Dev & DSA<br>💬 Ask me about Python<br>⚡ Fun fact I Play Chess 
 
 
 ## 🌐 Socials:
